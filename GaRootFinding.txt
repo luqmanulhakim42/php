@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 WOY KASNO 
+=======
+ore wa mou shindeiru
+>>>>>>> fee231a43a7cab624976143de6a6e35a58645834
